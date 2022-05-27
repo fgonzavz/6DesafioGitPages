@@ -1,0 +1,9 @@
+#Image-Section {
+    background-image: url("../img/bgimage.jpg");
+    background-repeat:repeat;
+    background-size: cover;
+    background-position: left;
+    background-attachment: fixed;
+    height: 20rem;
+  }
+  
